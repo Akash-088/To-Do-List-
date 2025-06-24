@@ -41,8 +41,10 @@ This is a basic To-Do List web application built using **HTML, CSS, and Vanilla 
 ---
 
 ## 📸 Screenshot
-
-
+![Screenshot 2025-06-24 190629](https://github.com/user-attachments/assets/743b0e2b-ee09-47fe-a902-43499dfdf5e2)
+![Screenshot 2025-06-24 203521](https://github.com/user-attachments/assets/55722f03-d004-4d9f-b605-f78c5956632f)
+![Screenshot 2025-06-24 203620](https://github.com/user-attachments/assets/d7195810-662a-47aa-b633-d7952487a62f)
+![Screenshot 2025-06-24 203722](https://github.com/user-attachments/assets/e2a04451-031e-4709-9486-8efe5a8f1c07)
 
 ---
 
