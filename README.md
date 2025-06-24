@@ -60,4 +60,4 @@ This project demonstrates key front-end web development concepts:
 - DOM manipulation  
 - Event handling  
 - State updates  
-- Functional UI using only Vanilla JS (no frameworks)
+- Functional UI using only Vanilla JS
