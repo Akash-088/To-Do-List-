@@ -1,4 +1,4 @@
-# ✅ Simple To-Do List App (Vanilla JavaScript + Checkboxes)
+# ✅ Simple To-Do List App 
 
 This is a basic To-Do List web application built using **HTML, CSS, and Vanilla JavaScript**. It allows users to manage their daily tasks efficiently with features to add, complete (via checkboxes), and delete tasks.
 
